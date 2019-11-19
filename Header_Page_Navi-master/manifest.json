@@ -3,7 +3,7 @@
   "name": "Add-on-test",
   "version": "1.0",
   "description": "Enlarge 'next' link in Google search result.",
-  "homepage_url": "https://github.com/dadaa/3BaiNext",
+  "homepage_url": "https://github.com/AsukaMaeno/Header_Page_Navi",
   "author": "Asuka Maeno",
   "content_scripts": [
     {
